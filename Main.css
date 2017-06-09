@@ -1,0 +1,63 @@
+html{
+  background: #1E90FF;
+}
+
+.logo{
+  text-align: center;
+  height: 35px;
+}
+
+form{
+  width: 400px;
+  background: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.legend{
+  width: 100%;
+  font-size: 40px;
+  text-align: center;
+}
+
+label{
+  width: 100%;
+  display: inline-block;
+}
+
+input{
+  width: 320px;
+  border: 2px, black;
+  padding: 15px;
+  height: 55px;
+}
+
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  padding: 15px;
+  width: 320px;
+  border: 2px, black;
+  height: 55px;
+  background: #32CD32;
+}
+
+button:hover{
+  background: #228B22;
+}
+
+.forgot{
+  text-align: center;
+  padding: 5px;
+}
+
+p.login{
+  text-align: center;
+  color: white;
+  padding: 5px;
+  font-size: 17px;
+}
